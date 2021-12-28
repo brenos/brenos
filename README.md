@@ -6,7 +6,7 @@ I'm a Tech Leader and Software Engineer from [@eCred](https://www.serasa.com.br/
 
 - :computer: I'm currently working with Python and AWS Services.
 - :blue_book: I'm currently learning Golang language as well.
-- :heart_eyes: Also love to develop software with .Net Core, C# and games. Visit [![FreeBackend C#](https://img.shields.io/badge/FreeBackend-C%23-blue)](https://github.com/brenos/FreeBackend)
+- :heart_eyes: Also love to develop software with .Net Core, C# and games. Visit my projects in [brenos.github.io](https://brenos.github.io)
 - :video_game::meat_on_bone: In free time, I like to play video games and meet friends.
 
 ![BrenoS GitHub stats](https://github-readme-stats.vercel.app/api?username=brenos&show_icons=true&theme=radical)
