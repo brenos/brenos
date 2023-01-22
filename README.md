@@ -8,7 +8,7 @@ I'm a Senior Software Developer from [@KWAN](https://www.kwan.pt) and i love tec
 - :heart_eyes: Also love to develop software with .Net Core, C# and games
 - :video_game::meat_on_bone: In free time, I like to play video games and meet friends.
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-souza-oliveira/)](https://www.linkedin.com/in/breno-souza-oliveira/)
 
