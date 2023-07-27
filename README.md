@@ -4,7 +4,7 @@
 
 I'm a Senior Software Developer from [@Checkmarx](https://checkmarx.com/) and i love technology, development and games. Let's drink some coffee?
 - :computer: I'm currently working with C# and Golang.
-- :blue_book: I'm currently learning Unity language as well.
+- :blue_book: I'm currently learning Unity 3D as well.
 - :heart_eyes: Also love to develop software with .Net Core, C# and games
 - :video_game::meat_on_bone: In free time, I like to play video games and meet friends.
 
